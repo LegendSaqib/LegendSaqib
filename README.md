@@ -103,9 +103,10 @@ I'm open to collaborating on:
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a> &nbsp;
   
-  <a href="mailto:muhammadsaqib6902@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> &nbsp;
+ <a href="mailto:muhammadsaqib6902@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> &nbsp;
+
   
   <a href="https://github.com/LegendSaqib" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
