@@ -99,8 +99,7 @@ I'm open to collaborating on:
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:muhammadsaqib6902@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/yourwhatsapplink" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/LegendSaqib" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> &nbsp
+  <a href="mailto:muhammadsaqib6902@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp
+  <a href="https://github.com/LegendSaqib" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a> &nbsp
 </p>
