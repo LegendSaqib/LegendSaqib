@@ -88,7 +88,7 @@ I'm open to collaborating on:
 
 ## ⏱️ WakaTime Coding Stats  
 <!-- Replace `yourusername` with your actual WakaTime username -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LegendSaqib&theme=radical)
 
 ---
 
