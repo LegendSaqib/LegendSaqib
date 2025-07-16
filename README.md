@@ -71,7 +71,8 @@ I'm open to collaborating on:
 ### ⚡ Fun Fact
 - I love solving bugs late at night with a strong cup of chai ☕  
 - I turn creative ideas into responsive web interfaces 🎨
-- I spike stress away on the volleyball court 🏐
+- When I’m not coding, you’ll find me spiking stress away on the volleyball court 🏐
+- I’m a left-handed spiker, known for unpredictable angles and powerful attacks. Volleyball keeps me sharp, energized, and team-driven both on and off the court.
 
 ---
 
