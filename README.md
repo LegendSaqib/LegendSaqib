@@ -104,9 +104,7 @@ I'm open to collaborating on:
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a> &nbsp;
   
-<a href="mailto:muhammadsaqib6902@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsaqib6902@gmail.com)
 
 
   
